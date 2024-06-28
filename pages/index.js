@@ -24,7 +24,7 @@ const Home = () => {
           </div>
         </div>
       </section>
-      <Link href="/about" className="next cursor-none">
+      <Link href="/" className="next cursor-none">
         <div className="group flex justify-center items-end absolute left-0 right-0 bottom-8 mx-auto w-24 h-24 text-white z-20">
           <div className="absolute top-0 left-0 right-0 mx-auto w-2.5 h-2.5 rounded-full bg-white translate-y-0 scale-100 duration-300 group-hover:translate-y-[65px] group-hover:scale-0"></div>
           <div className="absolute top-4 left-0 right-0 bottom-9 mx-auto w-px bg-white scale-y-100 group-hover:scale-y-0 origin-bottom	 duration-300"></div>
